@@ -1,12 +1,6 @@
-<style>
-  img {
-    display: block;
-    margin: 0 auto;
-    max-height: 400px;
-    aspect-ratio: 636 / 640;
-  }
-</style>
-<img src="docs/mockup.png" />
+<div align="center">
+  <img src="docs/mockup.png" />
+</div>
 
 # Quizzler 3Ds
 
