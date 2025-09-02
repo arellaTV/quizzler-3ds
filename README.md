@@ -1,5 +1,12 @@
-<img src="gfx/top_screen.png" align="center" style="display: block; margin: 0 auto;" />
-<img src="gfx/bottom_screen.png" align="center" style="display: block; margin: 0 auto;" />
+<style>
+  img {
+    display: block;
+    margin: 0 auto;
+    max-height: 400px;
+    aspect-ratio: 636 / 640;
+  }
+</style>
+<img src="docs/mockup.png" />
 
 # Quizzler 3Ds
 
