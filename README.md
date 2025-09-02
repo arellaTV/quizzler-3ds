@@ -1,5 +1,5 @@
-<img src="gfx/top_screen.png" style="display: block; margin: 0 auto;" />
-<img src="gfx/bottom_screen.png" style="display: block; margin: 0 auto;" />
+<img src="gfx/top_screen.png" align="center" style="display: block; margin: 0 auto;" />
+<img src="gfx/bottom_screen.png" align="center" style="display: block; margin: 0 auto;" />
 
 # Quizzler 3Ds
 
